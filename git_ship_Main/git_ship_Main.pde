@@ -7,7 +7,7 @@ String copilot = "";
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
 boolean displays = true; //powers up left and right cockpit displays
-boolean attitudeControl = false;
+boolean attitudeControl = true;
 boolean artificialGravity = false;
 boolean sensors = false; //turns on sensors
 boolean parkingBrake = true;
